@@ -17,11 +17,11 @@ conda create --prefix ./env python=3.7 -y
 ```
 
 ```bash
-conda activate ./env
+conda activate dvcnlp
 ```
 OR
 ```bash
-source activate ./env
+source activate dvcnlp
 ```
 
 ### STEP 04- install the requirements
