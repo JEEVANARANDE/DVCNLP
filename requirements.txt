@@ -5,7 +5,7 @@ dvc
 pandas
 numpy
 PyYAML
-sckit-learn
+scikit-learn
 lxml
 
 ### local packages -
