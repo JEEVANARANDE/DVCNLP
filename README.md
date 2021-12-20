@@ -1,8 +1,5 @@
-A small package for DVC nlp use case
-
-
-# dvc-project-template
-DVC project template
+# dvc-nlp use case
+DVC nlp usecase
 
 ## STEPS -
 
@@ -22,6 +19,9 @@ conda activate dvcnlp
 OR
 ```bash
 source activate dvcnlp
+conda deactivate
+conda env list
+conda remove -n dvcnlp
 ```
 
 ### STEP 04- install the requirements

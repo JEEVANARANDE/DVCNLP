@@ -5,6 +5,10 @@ dvc
 pandas
 numpy
 PyYAML
+sckit-learn
+lxml
 
 ### local packages -
  -e . # << uncomment this to install from setup.
+
+ 
