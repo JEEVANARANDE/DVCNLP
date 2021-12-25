@@ -21,7 +21,9 @@ OR
 source activate dvcnlp
 conda deactivate
 conda env list
-conda remove -n dvcnlp
+conda remove -n 
+echo "*.log" >> logs/.gitignore
+
 ```
 
 ### STEP 04- install the requirements
